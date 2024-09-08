@@ -1,0 +1,8 @@
+clases\ClienteManager.class
+clases\ClienteRegister.class
+com\mycompany\julissadiazprac\resources\JakartaEE10Resource.class
+clases\ClienteRegisterService.class
+com\mycompany\julissadiazprac\JakartaRestConfiguration.class
+clases\ComprarVuelo.class
+clases\Cliente.class
+clases\Vuelos.class
